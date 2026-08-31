@@ -1,0 +1,160 @@
+/* quarto syntax highlight colors */
+:root {
+  --quarto-hl-kw-color: #AF00DB;
+  --quarto-hl-cf-color: #AF00DB;
+  --quarto-hl-im-color: #AF00DB;
+  --quarto-hl-dt-color: #267f99;
+  --quarto-hl-fu-color: #795E26;
+  --quarto-hl-bu-color: #795E26;
+  --quarto-hl-va-color: #001080;
+  --quarto-hl-op-color: #000000;
+  --quarto-hl-co-color: #008000;
+  --quarto-hl-an-color: #008000;
+  --quarto-hl-st-color: #A31515;
+  --quarto-hl-ch-color: #A31515;
+  --quarto-hl-ss-color: #A31515;
+  --quarto-hl-sc-color: #A31515;
+  --quarto-hl-bn-color: #098658;
+  --quarto-hl-fl-color: #098658;
+  --quarto-hl-cn-color: #0000FF;
+  --quarto-hl-pp-color: #AF00DB;
+  --quarto-hl-at-color: #267f99;
+  --quarto-hl-in-color: #008000;
+  --quarto-hl-wa-color: #e65100;
+  --quarto-hl-al-color: #c62828;
+  --quarto-hl-er-color: #c62828;
+  --quarto-hl-ot-color: #000000;
+  --quarto-hl-ex-color: #795E26;
+}
+
+/* other quarto variables */
+:root {
+  --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+pre > code.sourceCode > span {
+  color: #000000;
+}
+
+code span {
+  color: #000000;
+}
+
+code.sourceCode > span {
+  color: #000000;
+}
+
+div.sourceCode,
+div.sourceCode pre.sourceCode {
+  color: #000000;
+}
+
+code span.kw {
+  color: #AF00DB;
+}
+
+code span.cf {
+  color: #AF00DB;
+}
+
+code span.im {
+  color: #AF00DB;
+}
+
+code span.dt {
+  color: #267f99;
+}
+
+code span.fu {
+  color: #795E26;
+}
+
+code span.bu {
+  color: #795E26;
+}
+
+code span.va {
+  color: #001080;
+}
+
+code span.op {
+  color: #000000;
+}
+
+code span.co {
+  color: #008000;
+  font-style: italic;
+}
+
+code span.an {
+  color: #008000;
+  font-style: italic;
+}
+
+code span.st {
+  color: #A31515;
+}
+
+code span.ch {
+  color: #A31515;
+}
+
+code span.ss {
+  color: #A31515;
+}
+
+code span.sc {
+  color: #A31515;
+}
+
+code span.bn {
+  color: #098658;
+}
+
+code span.fl {
+  color: #098658;
+}
+
+code span.cn {
+  color: #0000FF;
+}
+
+code span.pp {
+  color: #AF00DB;
+}
+
+code span.at {
+  color: #267f99;
+}
+
+code span.in {
+  color: #008000;
+}
+
+code span.wa {
+  color: #e65100;
+}
+
+code span.al {
+  color: #c62828;
+  font-weight: bold;
+}
+
+code span.er {
+  color: #c62828;
+  font-weight: bold;
+}
+
+code span.ot {
+  color: #000000;
+}
+
+code span.ex {
+  color: #795E26;
+}
+
+.prevent-inlining {
+  content: "</";
+}
+
+/*# sourceMappingURL=8fbc8e07336c99766226445bdb50f437.css.map */
